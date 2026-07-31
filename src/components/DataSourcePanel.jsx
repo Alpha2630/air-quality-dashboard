@@ -30,7 +30,7 @@ export default function DataSourcePanel({ onLoadDemo, onLoadCSV, sourceLabel, lo
             Charger les données
           </Typography>
           <Typography variant="body2" sx={{ color: '#94A3B8', fontSize: 13 }}>
-            Dépose ton fichier clean/air_quality_clean.csv, ou lance une démo avec des données
+            Veillez déposer une fichier csv, ou lance une démo avec des données
             simulées.
           </Typography>
           <Typography
